@@ -1,2 +1,2 @@
-# Intro-to-Git & Github
+# testrepo
 Introduction ti Git and Github 
